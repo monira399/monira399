@@ -98,7 +98,11 @@ A task management project developed as part of my Flutter and Dart development j
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monira399&bg_color=ffffff&color=0969DA&line=0969DA&point=1F6FEB&area=true&hide_border=true" width="100%" />
+  <img
+    src="https://ghchart.rshah.org/0969DA/monira399"
+    alt="Monira's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
