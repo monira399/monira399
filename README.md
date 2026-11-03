@@ -1,53 +1,58 @@
-# Hi, I'm Monira Parven 👋
+# Monira Parven 
 
 ### Flutter Developer | Mobile Application Development
 
-I'm a Flutter Developer from Bangladesh, passionate about building clean, user-friendly, and practical mobile applications.
+📍 Tangail, Bangladesh
 
-I enjoy turning ideas into functional applications while continuously improving my problem-solving skills and development practices.
+I'm a Flutter Developer passionate about building clean, user-friendly, and practical mobile applications. I enjoy learning new technologies, solving problems, and improving my development skills through real-world projects.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monira399)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monira-parven-058968213/)
 
 ---
 
 ## 👩‍💻 About Me
 
 - 📱 Focused on Flutter and Dart development.
-- 🔌 Experienced in integrating REST APIs into Flutter applications.
-- 🧩 Practicing state management with Provider.
-- 🔥 Learning and working with Firebase.
-- 🏗️ Interested in clean code and maintainable application architecture.
-- 🌱 Continuously learning and building real-world projects.
+- 🔌 Practicing REST API integration.
+- 🧩 Working with Provider state management.
+- 🔥 Learning Firebase integration.
+- 🏗️ Interested in clean code and maintainable architecture.
+- 🌱 Continuously learning and building mobile applications.
 
 ---
 
-## 🛠️ Technical Skills
+## 📊 GitHub Statistics
 
-**Languages & Frameworks**
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**State Management & Backend**
-
-![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-
-**Development Practices**
-
-![OOP](https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monira399&show_icons=true&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monira399&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" height="165" />
+</p>
 
 ---
 
-## ⚙️ Tools & Technologies
+## 🛠️ Technologies & Skills
 
-- **IDE:** Visual Studio Code, Android Studio
-- **Version Control:** Git & GitHub
-- **API Testing:** Postman
-- **Architecture:** Screen → Provider → Service
-- **Local Storage:** SharedPreferences
-- **Backend Services:** Firebase, REST APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github" />
+</p>
+
+**Core Skills**
+
+- Flutter & Dart
+- REST API Integration
+- Provider State Management
+- Firebase
+- Object-Oriented Programming
+- SharedPreferences
+
+---
+
+## ⚙️ Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,git,github" />
+</p>
 
 ---
 
@@ -55,40 +60,60 @@ I enjoy turning ideas into functional applications while continuously improving 
 
 ### 1. CraftyBay – E-commerce App
 
-A Flutter-based e-commerce application focused on product browsing, user authentication, and shopping functionality.
+A Flutter-based e-commerce application focused on product browsing, authentication, and shopping functionality.
 
-**Technologies:** Flutter, Dart, Provider, REST API, SharedPreferences
+**Tech Stack:** Flutter, Dart, Provider, REST API, SharedPreferences
 
-[View Repository](https://github.com/monira399/CraftyBay)
+[View Repository →](https://github.com/monira399/CraftyBay)
 
 ### 2. Advanced Expense Tracker
 
-A personal expense tracking application built to practice structured Flutter architecture, authentication, and transaction management.
+A personal expense tracking application built to practice Flutter architecture, authentication, and transaction management.
 
-**Technologies:** Flutter, Dart, Provider, Firebase
+**Tech Stack:** Flutter, Dart, Provider, Firebase
 
-[View Repository](https://github.com/monira399/ExpenseTracker-Advanced-Flutter-Dart)
+[View Repository →](https://github.com/monira399/ExpenseTracker-Advanced-Flutter-Dart)
+
+### 3. Task Manager
+
+A task management project developed as part of my Flutter and Dart development journey.
+
+**Tech Stack:** Dart
+
+[View Repository →](https://github.com/monira399/Task-Manager)
+
+---
 
 ## 📚 Currently Learning
 
-- Advanced Dart and Flutter concepts
-- Clean Architecture and scalable project structure
-- API handling and application error management
-- Firebase integration and authentication
-- Problem-solving and logical thinking
-- Mobile app performance and best practices
+- Advanced Dart & Flutter
+- Clean Architecture
+- Scalable Application Structure
+- Firebase Integration
+- Problem Solving & Logical Thinking
+- Mobile App Development Best Practices
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Contribution Activity
 
-I'm always interested in connecting with developers, learning from the community, and exploring opportunities to grow as a Flutter Developer.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monira399)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monira-parven-058968213/)
-
-📍 Tangail, Bangladesh
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monira399&bg_color=ffffff&color=0969DA&line=0969DA&point=1F6FEB&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
-*Building, learning, and improving — one project at a time.*
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/monira399">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/monira-parven-058968213/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building, learning, and improving — one project at a time.</i>
+</p>
