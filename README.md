@@ -1,6 +1,6 @@
 # Hi, I'm Monira Parven 👋
 
-### Flutter & Dart Developer | Mobile Application Development
+### Flutter Developer | Mobile Application Development
 
 I'm a Flutter Developer from Bangladesh, passionate about building clean, user-friendly, and practical mobile applications.
 
