@@ -55,29 +55,19 @@ I enjoy turning ideas into functional applications while continuously improving 
 
 ### 1. CraftyBay – E-commerce App
 
-A Flutter-based e-commerce application focused on product browsing and shopping functionality.
+A Flutter-based e-commerce application focused on product browsing, user authentication, and shopping functionality.
 
 **Technologies:** Flutter, Dart, Provider, REST API, SharedPreferences
 
-[View Repository](https://github.com/monira399)
+[View Repository](https://github.com/monira399/CraftyBay)
 
 ### 2. Advanced Expense Tracker
 
-A personal expense tracking application developed to practice structured Flutter architecture, authentication, and transaction management.
+A personal expense tracking application built to practice structured Flutter architecture, authentication, and transaction management.
 
 **Technologies:** Flutter, Dart, Provider, Firebase
 
 [View Repository](https://github.com/monira399/ExpenseTracker-Advanced-Flutter-Dart)
-
-### 3. Live Location Tracker
-
-A Flutter project focused on accessing and displaying live device location on a map.
-
-**Technologies:** Flutter, Dart, Geolocation, flutter_map
-
-[View Repository](https://github.com/monira399)
-
----
 
 ## 📚 Currently Learning
 
